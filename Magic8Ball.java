@@ -12,31 +12,31 @@ public class Magic8Ball
         {
         System.out.println("Maybe");
         }
-        if (i == 2)
+        else if (i == 2)
         {
         System.out.println("Ask again");
         }
-        if (i == 3)
+        else if (i == 3)
         {
         System.out.println("Its hazy");
         }
-        if (i == 4)
+        else if (i == 4)
         {
         System.out.println("Definitely not");
         }
-        if (i == 5)
+        else if (i == 5)
         {
         System.out.println("The stars say so");
         }
-        if (i == 6)
+        else if (i == 6)
         {
         System.out.println("Without a doubt");
         }
-        if (i == 7)
+        else if (i == 7)
         {
         System.out.println("Most Likely");
         }
-        if (i == 8)
+        else if (i == 8)
         {
         System.out.println("Very Doubtful");
         }
